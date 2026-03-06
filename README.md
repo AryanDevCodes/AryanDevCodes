@@ -4,7 +4,8 @@
 
 <h2 align="left">About Me</h2>
 <p align="left">
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QwZ2NrdHA0ZDlrdTU5NGt5bjJ4OGszYTIxMzk0aHBtMW9ldGRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="420" height="450" alt="coding gif"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QwZ2NrdHA0ZDlrdTU5NGt5bjJ4OGszYTIxMzk0aHBtMW9ldGRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="420" height="450" alt="coding gif" loop>
+
   
   - Currently working on: <strong>Microservice E-commerce Application</strong><br/>
   -  Learning: <strong>GenAI, Angular, RabbitMQ, Kafka</strong><br/>
