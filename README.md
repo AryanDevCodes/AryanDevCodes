@@ -4,8 +4,7 @@
 
 <h2 align="left">About Me</h2>
 <p align="left">
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QwZ2NrdHA0ZDlrdTU5NGt5bjJ4OGszYTIxMzk0aHBtMW9ldGRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="420" height="450" alt="coding gif" loop>
-
+<img align="right" src="https://i.giphy.com/gXr3j6YAClXFfZABn5.webp" width="420" height="450" alt="coding gif">
   
   - Currently working on: <strong>Microservice E-commerce Application</strong><br/>
   -  Learning: <strong>GenAI, Angular, RabbitMQ, Kafka</strong><br/>
@@ -23,6 +22,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
