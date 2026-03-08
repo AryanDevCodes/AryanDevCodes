@@ -61,7 +61,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanDevCodes&theme=transparent" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanDevCodes&theme=transparent" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanDevCodes&theme=transparent" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanDevCodes&theme=transparent&utcOffset=5.5" height="150"/>
 </div>
 
 <h2 align="left">Activity Graph</h2>
