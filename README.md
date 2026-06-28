@@ -8,8 +8,7 @@
   
   - Currently working on: <strong>Microservice E-commerce Application</strong><br/>
   -  Learning: <strong>Kafka</strong><br/>
-  -  Ask me about: <strong>Java, Spring Boot, REST APIs, Concurrency</strong><br/>
-  -  Reach me at: <strong><a href="mailto:rajaryan.codes@gmail.com">rajaryan.codes@gmail.com</a></strong><br/>
+  -  Ask me about: <strong>Java, Spring Boot, REST APIs, Kafka</strong><br/>
   -  Projects: <strong><a href="https://heyaryan.vercel.app" target="_blank">heyaryan.vercel.app</a></strong><br/>
   -  Fun fact: <strong>I like long coding sessions with music in the background</strong>
 </p>
