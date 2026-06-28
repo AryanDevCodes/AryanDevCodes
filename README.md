@@ -62,7 +62,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanDevCodes&theme=transparent" height="150"/>
 </div>
 
-<h2 align="left">Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AryanDevCodes/AryanDevCodes/output/github-contribution-grid-snake.svg" />
 </p>
