@@ -6,7 +6,7 @@
 <p align="left">
 <img align="right" src="https://i.giphy.com/gXr3j6YAClXFfZABn5.webp" width="420" height="450" alt="coding gif">
   
-  - Currently working on: <strong>Microservice E-commerce Application</strong><br/>
+  - Currently working on: <strong>Microservices Application</strong><br/>
   -  Learning: <strong>Kafka</strong><br/>
   -  Ask me about: <strong>Java, Spring Boot, REST APIs, Kafka</strong><br/>
   -  Projects: <strong><a href="https://heyaryan.vercel.app" target="_blank">heyaryan.vercel.app</a></strong><br/>
