@@ -7,7 +7,7 @@
 <p align="left">
 <img align="right" src="https://i.giphy.com/gXr3j6YAClXFfZABn5.webp" width="420" height="450" alt="coding gif">
 
-  - Building: <strong>Reliable backend systems with Java & Spring Boot</strong><br/>
+  - Building: <strong>Reliable backend systems with Java & Spring Boot in combination with good ui/ux using React js</strong><br/>
   - Focused on: <strong>REST APIs, PostgreSQL, Security, Transactions & Concurrency</strong><br/>
   - Learning: <strong>Kafka, Distributed Systems & System Design </strong><br/>
   - Ask me about: <strong>Java, Spring Boot, REST APIs, PostgreSQL, Concurrency</strong><br/>
